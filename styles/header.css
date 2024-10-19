@@ -12,7 +12,7 @@
 }
 
 .container__botao:checked~.container__rotulo {
-    background: var(--azul-degrade);
+    background: var(--rosa-degrade);
 }
 
 .cabeçalho {
@@ -56,7 +56,7 @@
 }
 
 .lista-menu__link {
-    background: var(--azul-degrade);
+    background: var(--rosa-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -128,7 +128,7 @@
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
-        background: var(--azul-degrade);
+        background: var(--rosa-degrade);
         color: var(--branco);
     }
 
@@ -137,7 +137,7 @@
     }
 
     .lista-menu__item:hover {
-        background: var(--azul-degrade);
+        background: var(--rosa-degrade);
     }
 
     .lista-menu__item:hover>.lista-menu__link {
